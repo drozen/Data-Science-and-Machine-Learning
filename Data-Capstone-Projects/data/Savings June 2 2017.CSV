@@ -1,0 +1,338 @@
+Date,Transaction,Name,Memo,Amount
+6/10/2013,OTHER,Withdrawal,To RBC CREDIT CARD,-497.53
+6/18/2013,OTHER,Interac e-Transfer From: RON ROZ,Transferred,800
+6/30/2013,OTHER,Interest Paid,,61.1
+7/10/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-784.29
+7/31/2013,OTHER,Interest Paid,,62.92
+8/8/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-3297.34
+8/31/2013,OTHER,Interest Paid,,59.8
+9/4/2013,DEBIT,Internet Withdrawal to Tangerine,Transferred,-1000
+9/6/2013,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-713.58
+9/10/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-775.52
+9/12/2013,DEBIT,Internet Withdrawal to Tangerine,Transferred,-3500
+9/25/2013,DEBIT,Internet Withdrawal to Tangerine,Transferred,-1400
+9/28/2013,OTHER,Interac e-Transfer From: RON ROZ,Transferred,200
+9/30/2013,OTHER,Interest Paid,,52.1
+10/8/2013,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-267.22
+10/9/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-515.4
+10/31/2013,DEBIT,Internet Withdrawal to Tangerine,Transferred,-2000
+10/31/2013,OTHER,Interest Paid,,50.08
+11/1/2013,CREDIT,EFT Internet Deposit from BANK O,Transferred,8000
+11/6/2013,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-2042.82
+11/8/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-75.25
+11/30/2013,OTHER,Interest Paid,,53.09
+12/1/2013,DEBIT,Internet Withdrawal to Tangerine,Transferred,-4000
+12/9/2013,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-866.23
+12/11/2013,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-76.09
+12/17/2013,OTHER,Interac e-Transfer From: RON ROZ,Transferred,100
+12/31/2013,OTHER,Interest Paid,,49.18
+1/6/2014,DEBIT,Internet Withdrawal to TFSA TSA ,Transferred,-9600
+1/7/2014,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-1136.52
+1/8/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-76.26
+1/22/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-3000
+1/31/2014,OTHER,Interest Paid,,37.55
+2/6/2014,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-1333.94
+2/10/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-77.09
+2/28/2014,OTHER,Interest Paid,,28.81
+3/2/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-3000
+3/11/2014,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-988.96
+3/12/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-78.29
+3/30/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-2000
+3/31/2014,OTHER,Interest Paid,,26.49
+4/8/2014,OTHER,EFT Withdrawal to MASTERCARD,To MASTERCARD,-1424.58
+4/9/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-77.74
+4/14/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-4000
+4/25/2014,OTHER,Interac e-Transfer From: RON ROZ,Transferred,180
+4/30/2014,OTHER,Interest Paid,,19.41
+5/9/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-634.44
+5/12/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-3243.56
+5/31/2014,OTHER,Interest Paid,,15.1
+6/8/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-500
+6/9/2014,CREDIT,EFT Internet Deposit from BANK O,Transferred,18000
+6/9/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-305.55
+6/10/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-360.24
+6/10/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-3000
+6/30/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-2000
+6/30/2014,OTHER,Interest Paid,,24.1
+7/1/2014,OTHER,Tangerine Savings Interest Rate ,TANGERINE BONUS RATE SALE 0614,3.4
+7/9/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-45.2
+7/9/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2120.28
+7/16/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-500
+7/28/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-1000
+7/29/2014,OTHER,Interac e-Transfer From: Lucie L,Transferred,260
+7/31/2014,OTHER,Interest Paid,,24.59
+8/1/2014,OTHER,Tangerine Savings Interest Rate ,TANGERINE BONUS RATE SALE 0714,0.8
+8/7/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-795.65
+8/20/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-1230.1
+8/26/2014,OTHER,Interac e-Transfer From: Lucie L,Transferred,260
+8/29/2014,DEBIT,Internet Withdrawal to Tangerine,Transferred,-1500
+8/31/2014,OTHER,Interest Paid,,21.69
+9/3/2014,CREDIT,EFT Internet Deposit from BANK O,Transferred,3500
+9/9/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1013.51
+9/14/2014,OTHER,Interac e-Transfer From: RON ROZ,Transferred,100
+9/21/2014,OTHER,Interac e-Transfer From: RON ROZ,Transferred,100
+9/30/2014,OTHER,Interest Paid,,21.62
+10/1/2014,DEBIT,Recurring Internet Withdrawal to,WEB BATCH,-2200
+10/1/2014,OTHER,Tangerine Savings Interest Rate ,TANGERINE BONUS RATE SALE 0914,3.65
+10/1/2014,OTHER,Interac e-Transfer From: Lucie L,Transferred,300
+10/6/2014,OTHER,Interac e-Transfer From: Lucie L,Transferred,520
+10/8/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2782.43
+10/31/2014,OTHER,Interest Paid,,18.45
+11/1/2014,DEBIT,Recurring Internet Withdrawal to,WEB BATCH,-2200
+11/1/2014,OTHER,Tangerine Savings Interest Rate ,TANGERINE BONUS RATE SALE 1014,0.16
+11/7/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-749.4
+11/10/2014,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-1208.93
+11/27/2014,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+11/28/2014,OTHER,EFT Deposit from BANK OF MONTREA,CO,4000
+11/30/2014,OTHER,Interest Paid,,13.68
+12/1/2014,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+12/9/2014,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+12/10/2014,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1307.77
+12/31/2014,OTHER,Interest Paid,,13.64
+1/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+1/4/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+1/7/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1376.12
+1/12/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1536.23
+1/13/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,2000
+1/31/2015,OTHER,Interest Paid,,10.61
+2/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+2/3/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+2/9/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1127.59
+2/28/2015,OTHER,Interest Paid,,5.9
+3/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+3/6/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+3/9/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,7000
+3/11/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1725.64
+3/31/2015,OTHER,Interest Paid,,8.25
+4/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+4/1/2015,OTHER,Promotional Bonus Interest,TANGERINE BONUS RATE SALE 0315,0.01
+4/1/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+4/7/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,4000
+4/8/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1200.27
+4/20/2015,OTHER,Interac e-Transfer From: CYNTHIA,Transferred,118
+4/30/2015,OTHER,Interest Paid,,9.78
+5/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-2200
+5/8/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2042.55
+5/8/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+5/11/2015,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-281
+5/31/2015,OTHER,Interest Paid,,7.51
+6/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-1408
+6/9/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1547.13
+6/10/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,150
+6/11/2015,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-42
+6/14/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+6/30/2015,OTHER,Interest Paid,,5.08
+7/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-1558
+7/3/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+7/3/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,2000
+7/6/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,3000
+7/8/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1880.2
+7/10/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,150
+7/29/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,2500
+7/30/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,1500
+7/31/2015,OTHER,Interest Paid,,6.76
+8/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-1558
+8/1/2015,OTHER,Promotional Bonus Interest,,6.81
+8/7/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1366.02
+8/10/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,150
+8/10/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1800
+8/12/2015,OTHER,Interac e-Transfer From: CYNTHIA,Transferred,754
+8/25/2015,DEBIT,Internet Withdrawal to 2017 TFSA,Completed transfer to Tangerine SAV account 3205119029 ~ Internet Withdrawal,-10000
+8/26/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,600
+8/27/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,900
+8/31/2015,OTHER,Interest Paid,,6.33
+9/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-1558
+9/1/2015,OTHER,Promotional Bonus Interest,,10
+9/1/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+9/4/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1500
+9/4/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,-1
+9/4/2015,DEBIT,Exchange Rate: 1.3430   Amount i,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,0
+9/4/2015,DEBIT,Exchange Rate: 1.3430   Amount i,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,0
+9/4/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-750
+9/8/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,1000
+9/10/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1500
+9/10/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1438.89
+9/10/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+9/10/2015,CREDIT,Internet Deposit from 2017 TFSA ,Completed transfer from Tangerine SAV account 3205119029 ~ Internet Deposit,1000
+9/10/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+9/16/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,100
+9/30/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,300
+9/30/2015,OTHER,Interest Paid,,2.16
+10/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+10/1/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+10/2/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,1000
+10/8/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1883.71
+10/9/2015,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-17.8
+10/11/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+10/31/2015,OTHER,Interest Paid,,2.94
+11/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+11/9/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-3439.26
+11/10/2015,OTHER,Interac e-Transfer From: HARLEY ,Transferred,325
+11/11/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+11/11/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1200
+11/12/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,800
+11/15/2015,OTHER,Interac e-Transfer From: HARLEY ,Transferred,125
+11/20/2015,OTHER,EFT Deposit from BBS Securities,From BBS Securities,0.53
+11/23/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1500
+11/26/2015,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1200
+11/30/2015,OTHER,Interest Paid,,1.64
+12/1/2015,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+12/2/2015,OTHER,Interac e-Transfer From: RON ROZ,Transferred,600
+12/9/2015,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1507.71
+12/11/2015,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+12/11/2015,OTHER,Interac e-Transfer From: CYNTHIA,Transferred,236
+12/27/2015,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1800
+12/29/2015,OTHER,EFT Deposit from BANK OF MONTREA,CO,600
+12/31/2015,OTHER,Interest Paid,,1.78
+1/1/2016,OTHER,TFSA Kick Start Excess Balance T,Excess Transfer from 3205119029,3538.77
+1/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+1/6/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-2000
+1/7/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1500
+1/7/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2312.03
+1/10/2016,OTHER,Interac e-Transfer From: ZICHRON,Transferred,400
+1/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+1/14/2016,OTHER,EFT Deposit from BBS SECURITIES,From BBS SECURITIES,1000
+1/31/2016,OTHER,Interest Paid,,4.98
+2/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+2/4/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1300
+2/9/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2056.32
+2/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+2/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,4.01
+2/29/2016,OTHER,Interest Paid,,3.57
+3/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+3/6/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,-1000
+3/6/2016,DEBIT,Exchange Rate: 1.3560   Amount i,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,0
+3/6/2016,DEBIT,Exchange Rate: 1.3560   Amount i,Completed transfer to Tangerine SAV account 3011127636 ~ Internet Withdrawal,0
+3/8/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,2000
+3/9/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-2704.42
+3/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,1000
+3/14/2016,ATM,TNG Money-Back Credit Card payme,Credit Card Payment,-573.27
+3/14/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+3/31/2016,OTHER,Interest Paid,,2.47
+4/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+4/4/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1500
+4/6/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+4/7/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1000
+4/7/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1448.5
+4/7/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1300
+4/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+4/12/2016,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-573.27
+4/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,10.56
+4/30/2016,OTHER,Interest Paid,,1.16
+5/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+5/5/2016,OTHER,Interac e-Transfer From: RON ROZ,Transferred,500
+5/10/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-956.31
+5/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+5/11/2016,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-23.89
+5/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,50.31
+5/19/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1000
+5/20/2016,OTHER,Interac e-Transfer From: ZICHRON,Transferred,300
+5/31/2016,OTHER,Interest Paid,,1.15
+6/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+6/2/2016,OTHER,Interac e-Transfer From: ZICHRON,Transferred,300
+6/2/2016,ATM,TNG Money-Back Credit Card payme,Credit Card Payment,-2564.94
+6/2/2016,CREDIT,Internet Deposit from TFSA TSA -,Completed transfer from Tangerine SAV account 3403946416 ~ Internet Deposit,1613.65
+6/3/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1300
+6/3/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-2000
+6/8/2016,OTHER,EFT Withdrawal to RBC CREDIT CAR,To RBC CREDIT CARD,-39
+6/8/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-797.1
+6/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+6/11/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,38.24
+6/30/2016,OTHER,Interest Paid,,0.37
+7/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+7/1/2016,OTHER,Interac e-Transfer From: ZICHRON,Transferred,400
+7/1/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1000
+7/8/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-38.28
+7/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+7/11/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1200
+7/12/2016,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-2600.22
+7/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,20.73
+7/29/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,800
+7/31/2016,OTHER,Interest Paid,,0.76
+8/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+8/1/2016,OTHER,Promotional Bonus Interest,,0.07
+8/3/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,1500
+8/9/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-1293.35
+8/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+8/11/2016,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-741.29
+8/12/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,900
+8/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,16.03
+8/15/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+8/31/2016,OTHER,Interest Paid,,1.01
+9/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+9/1/2016,OTHER,Promotional Bonus Interest,,0.35
+9/8/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-77.14
+9/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+9/13/2016,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-975.15
+9/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,17.83
+9/14/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-147.51
+9/22/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,800
+9/30/2016,OTHER,Interest Paid,,0.4
+10/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+10/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+10/11/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-180.28
+10/11/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-820
+10/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,31.09
+10/31/2016,OTHER,Interest Paid,,0.17
+11/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+11/11/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,21.38
+11/24/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,2500
+11/24/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,500
+11/24/2016,ATM,TNG Money-Back Credit Card payme,Credit Card Payment,-2904.51
+11/24/2016,CREDIT,Internet Deposit from TFSA TSA -,Completed transfer from Tangerine SAV account 3403946416 ~ Internet Deposit,3000
+11/30/2016,OTHER,Interest Paid,,0.63
+12/1/2016,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+12/1/2016,OTHER,Promotional Bonus Interest,,0.63
+12/5/2016,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+12/6/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,972
+12/8/2016,CREDIT,Internet Deposit from TFSA TSA -,Completed transfer from Tangerine SAV account 3403946416 ~ Internet Deposit,1000
+12/11/2016,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+12/13/2016,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,44.79
+12/14/2016,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-253.41
+12/15/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,2000
+12/28/2016,ATM,TNG Money-Back Credit Card payme,Credit Card Payment,-5589.83
+12/28/2016,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1000
+12/29/2016,OTHER,EFT Deposit from BANK OF MONTREA,CO,629
+12/31/2016,OTHER,Interest Paid,,3.2
+1/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+1/1/2017,OTHER,Promotional Bonus Interest,,4.08
+1/4/2017,DEBIT,Internet Withdrawal to Tangerine,Completed transfer to Tangerine DDA account 4000267688 ~ Internet Withdrawal,-1000
+1/11/2017,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+1/11/2017,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1500
+1/13/2017,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,36.35
+1/31/2017,OTHER,Interest Paid,,1.83
+2/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+2/1/2017,OTHER,Promotional Bonus Interest,,1.89
+2/3/2017,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,1000
+2/6/2017,OTHER,EFT Deposit from BANK OF MONTREA,CO,1300
+2/11/2017,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+2/11/2017,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,42.98
+2/13/2017,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-2184.44
+2/15/2017,OTHER,EFT Deposit from BANK OF MONTREA,CO,26000
+2/28/2017,OTHER,Interest Paid,,10.47
+3/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+3/1/2017,OTHER,Promotional Bonus Interest,,21.57
+3/10/2017,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-90.59
+3/11/2017,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+3/11/2017,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,36.99
+3/13/2017,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-3633.06
+3/14/2017,DEBIT,Internet Withdrawal to TFSA TSA ,Completed transfer to Tangerine SAV account 3409223265 ~ Internet Withdrawal,-15000
+3/19/2017,DEBIT,Internet Withdrawal to TFSA TSA ,Completed transfer to Tangerine SAV account 3409223265 ~ Internet Withdrawal,-5000
+3/31/2017,OTHER,Interest Paid,,11.29
+4/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+4/1/2017,OTHER,Promotional Bonus Interest,,23.2
+4/7/2017,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-157.61
+4/7/2017,CREDIT,Internet Deposit from Tangerine ,Completed transfer from Tangerine DDA account 4000267688 ~ Internet Deposit,3000
+4/11/2017,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+4/11/2017,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-2306.82
+4/13/2017,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,41.43
+4/30/2017,OTHER,Interest Paid,,4.6
+5/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+5/1/2017,OTHER,Promotional Bonus Interest,,1.3
+5/10/2017,OTHER,EFT Withdrawal to BMO PAYMENT,To BMO PAYMENT,-142.01
+5/11/2017,CREDIT,Recurring Internet Deposit from ,SPOINT From 4000267688,300
+5/11/2017,ATM,EFT TNG Money-Back Credit Card p,To TANGERINE CCRD,-2978.05
+5/13/2017,OTHER,Credit Card Rewards Redemption,Credit Card Rewards Redemption,98.63
+5/31/2017,OTHER,Interest Paid,,3.37
+6/1/2017,DEBIT,Recurring Internet Withdrawal to,SPOINT To 4000267688,-100
+6/1/2017,OTHER,Promotional Bonus Interest,,0.35

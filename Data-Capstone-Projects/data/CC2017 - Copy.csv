@@ -1,0 +1,676 @@
+Transaction date,Transaction,Name,Memo,Amount
+1/1/2017,DEBIT,GROUPON CANADA INC 877-788-7858 ,Rewards earned: 0.21 ~ Category: Other,-21
+1/2/2017,DEBIT,GROUPON CANADA INC 877-788-7858 ,Rewards earned: 0.42 ~ Category: Other,-42
+1/2/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.46 ~ Category: Groceries,-123.07
+1/2/2017,DEBIT,ESSO ORONO ON,Rewards earned: 0.42 ~ Category: Gas,-21.04
+1/3/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.17 ~ Category: Groceries,-8.49
+1/3/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+1/3/2017,DEBIT,GAP OUTLET 1786 TORONTO ON,Rewards earned: 0.13 ~ Category: Other,-12.98
+1/3/2017,DEBIT,WINNERS 319 TORONTO ON,Rewards earned: 0.31 ~ Category: Other,-30.51
+1/3/2017,CREDIT,HOMESENSE 107 TORONTO ON,Rewards earned: -0.17 ~ Category: Other,16.95
+1/3/2017,CREDIT,HOMESENSE 107 TORONTO ON,Rewards earned: -0.23 ~ Category: Other,22.59
+1/3/2017,DEBIT,ARDENE #453 TORONTO ON,Rewards earned: 0.15 ~ Category: Other,-15.26
+1/3/2017,DEBIT,REITMANS #94 TORONTO ON,Rewards earned: 0.18 ~ Category: Other,-18.08
+1/3/2017,DEBIT,DYNAMITE #289 TORONTO ON,Rewards earned: 0.23 ~ Category: Other,-22.6
+1/3/2017,DEBIT,WAL-MART #3106 TORONTO ON,Rewards earned: 0.08 ~ Category: Groceries,-4.11
+1/4/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.36 ~ Category: Gas,-67.98
+1/4/2017,DEBIT,MIRIAMS GIFT GALLERY TORONTO ON,Rewards earned: 0.36 ~ Category: Other,-35.7
+1/4/2017,DEBIT,UBER CA JAN04 WYWLC HE help.uber,Rewards earned: 0.25 ~ Category: Bill Payment,-12.67
+1/5/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.11 ~ Category: Groceries,-5.61
+1/5/2017,DEBIT,DR. SAMUEL AXELROD & A NORTH YOR,Rewards earned: 1.03 ~ Category: Other,-103.2
+1/5/2017,DEBIT,3M LAWRENCE PHARMACY NORTH YORK ,Rewards earned: 0.65 ~ Category: Drug Store,-65.27
+1/6/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.34 ~ Category: Groceries,-16.89
+1/8/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 1.01 ~ Category: Other,-101.48
+1/8/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.83 ~ Category: Groceries,-91.49
+1/9/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 4.53 ~ Category: Other,-453.13
+1/9/2017,DEBIT,Udemy San Francisco CA USA,Rewards earned: 0.15 ~ Category: Other,-15
+1/9/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.87 ~ Category: Gas,-43.38
+1/9/2017,DEBIT,PETROCAN NORTH YORK ON,Rewards earned: 0.53 ~ Category: Gas,-26.5
+1/10/2017,DEBIT,LOBLAW SUPERMARKET #10 TORONTO O,Rewards earned: 1.41 ~ Category: Groceries,-70.26
+1/10/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.25 ~ Category: Restaurant,-25.26
+1/11/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.33 ~ Category: Groceries,-16.49
+1/15/2017,DEBIT,HUSKY MARLEE HUSKY #27 NORTH YOR,Rewards earned: 0.92 ~ Category: Gas,-45.92
+1/15/2017,CREDIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: -1.72 ~ Category: Other,171.7
+1/15/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.70 ~ Category: Other,-69.52
+1/15/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.65 ~ Category: Groceries,-82.7
+1/16/2017,DEBIT,BETH OLOTH 646-6809942 ON,Rewards earned: 0.18 ~ Category: Other,-18
+1/19/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.86 ~ Category: Groceries,-42.76
+1/19/2017,DEBIT,DR. SAMUEL AXELROD & A NORTH YOR,Rewards earned: 0.40 ~ Category: Other,-39.6
+1/21/2017,DEBIT,SP * MOSTLY MUSIC 7184382766 NY ,Rewards earned: 0.14 ~ Category: Other,-13.55
+1/22/2017,DEBIT,OLD NAVY CANADA 3392 TORONTO ON,Rewards earned: 0.03 ~ Category: Other,-3.14
+1/22/2017,DEBIT,GAP KIDS CANADA 9532 TORONTO ON,Rewards earned: 0.19 ~ Category: Other,-18.65
+1/22/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.07 ~ Category: Groceries,-103.45
+1/22/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.51 ~ Category: Other,-50.55
+1/23/2017,DEBIT,PETROCAN THORNHILL ON,Rewards earned: 0.50 ~ Category: Gas,-25.17
+1/23/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.26 ~ Category: Groceries,-13.19
+1/24/2017,DEBIT,WAL-MART #5831 THORNHILL ON,Rewards earned: 0.46 ~ Category: Groceries,-23.24
+1/24/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.10 ~ Category: Drug Store,-10.31
+1/25/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.72 ~ Category: Gas,-35.98
+1/26/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.20 ~ Category: Groceries,-9.76
+1/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+1/29/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.05 ~ Category: Other,-5
+1/30/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.74 ~ Category: Gas,-36.82
+1/30/2017,DEBIT,DR LLOYD HOFFMAN DENTI RICHMOND ,Rewards earned: 3.49 ~ Category: Other,-349
+1/31/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.06 ~ Category: Groceries,-2.99
+2/1/2017,DEBIT,THE CHILDRENS PLACE MISSISSAUGA ,Rewards earned: 0.63 ~ Category: Other,-62.88
+2/1/2017,DEBIT,APL* ITUNES.COM/BILL 800-676-277,Rewards earned: 0.01 ~ Category: Other,-0.99
+2/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+2/2/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.07 ~ Category: Groceries,-103.3
+2/5/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 1.33 ~ Category: Other,-133.27
+2/5/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.31 ~ Category: Drug Store,-31.28
+2/7/2017,DEBIT,ORANGE SQUARE INC NORTH YORK ON,Rewards earned: 0.32 ~ Category: Other,-32.24
+2/7/2017,DEBIT,MIDRASH SHMUEL TEL9175893004 NY ,Rewards earned: 1.45 ~ Category: Other,-144.53
+2/7/2017,DEBIT,SERVICEONTARIO MIDTOWN TORONTO O,Rewards earned: 15.34 ~ Category: Other,-1533.6
+2/8/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.42 ~ Category: Other,-41.72
+2/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,2184.44
+2/9/2017,DEBIT,LOBLAW SUPERMARKET #10 TORONTO O,Rewards earned: 0.55 ~ Category: Groceries,-27.57
+2/9/2017,DEBIT,COSTCO.CA *ONLINE 800-955-2292 B,Rewards earned: 2.42 ~ Category: Other,-241.81
+2/9/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.28 ~ Category: Restaurant,-27.69
+2/9/2017,DEBIT,CDN TIRE STORE #00019 NORTH YORK,Rewards earned: 0.95 ~ Category: Home Improvement,-94.86
+2/10/2017,DEBIT,Amazon.ca AMAZON.CA ON,Rewards earned: 0.28 ~ Category: Other,-28.19
+2/10/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.00 ~ Category: Groceries,-50.14
+2/11/2017,DEBIT,WAL-MART #5831 THORNHILL ON,Rewards earned: 0.81 ~ Category: Groceries,-40.29
+2/11/2017,DEBIT,Amazon.ca AMAZON.CA ON,Rewards earned: 0.14 ~ Category: Other,-14.35
+2/11/2017,DEBIT,D-LITE'S INC. THORNHILL ON,Rewards earned: 0.35 ~ Category: Restaurant,-35.44
+2/12/2017,DEBIT,TOYS R US #3505 THORNHILL ON,Rewards earned: 0.25 ~ Category: Other,-25.06
+2/13/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.41 ~ Category: Gas,-70.54
+2/13/2017,DEBIT,SEARS CDA WOODBINE CEN REXDALE O,Rewards earned: 0.10 ~ Category: Other,-10.25
+2/13/2017,DEBIT,CARTER'S OSHKOSH #0 ETOBICOKE ON,Rewards earned: 1.03 ~ Category: Other,-103.12
+2/13/2017,DEBIT,CARTER'S OSHKOSH #0 ETOBICOKE ON,Rewards earned: 0.73 ~ Category: Other,-73.49
+2/14/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 0.71 ~ Category: Other,-71.18
+2/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.11 ~ Category: Groceries,-5.48
+2/16/2017,DEBIT,CARTER'S OSHKOSH #4 TORONTO ON,Rewards earned: 0.20 ~ Category: Other,-20.14
+2/16/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.09 ~ Category: Groceries,-104.41
+2/17/2017,DEBIT,PERSONAL INSURANCE COM MISSISSAU,Rewards earned: 3.78 ~ Category: Bill Payment,-189
+2/17/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.35 ~ Category: Groceries,-17.4
+2/17/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.48 ~ Category: Other,-47.94
+2/17/2017,DEBIT,CARTER'S OSHKOSH #4 TORONTO ON,Rewards earned: 0.71 ~ Category: Other,-70.56
+2/18/2017,DEBIT,WALMART.CA Mississauga ON,Rewards earned: 0.59 ~ Category: Other,-59.15
+2/19/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.53 ~ Category: Furniture,-53.02
+2/19/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.37 ~ Category: Furniture,-37.24
+2/20/2017,DEBIT,HUSKY MARLEE HUSKY #27 NORTH YOR,Rewards earned: 0.82 ~ Category: Gas,-40.92
+2/20/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.18 ~ Category: Restaurant,-18.08
+2/21/2017,DEBIT,LOBLAW SUPERMARKET #10 TORONTO O,Rewards earned: 0.77 ~ Category: Groceries,-38.66
+2/21/2017,DEBIT,INDIGO - 685 SHEPPARD NORTH YORK,Rewards earned: 0.05 ~ Category: Parking,-5
+2/22/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.31 ~ Category: Groceries,-15.71
+2/22/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.98 ~ Category: Gas,-49.15
+2/22/2017,DEBIT,JUSTIN'S NO FRILLS 314 THORNHILL,Rewards earned: 1.29 ~ Category: Groceries,-64.57
+2/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+2/26/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.18 ~ Category: Groceries,-8.99
+2/27/2017,DEBIT,DR. LAFFA THORNHILL ON,Rewards earned: 0.27 ~ Category: Restaurant,-27.1
+2/28/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.27 ~ Category: Other,-27.08
+2/28/2017,DEBIT,SHOPPERS DRUG MART #08 TORONTO O,Rewards earned: 0.05 ~ Category: Drug Store,-4.73
+2/28/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.41 ~ Category: Groceries,-70.65
+3/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+3/3/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.64 ~ Category: Furniture,-64.33
+3/3/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.77 ~ Category: Furniture,-76.94
+3/5/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.05 ~ Category: Other,-5
+3/5/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.84 ~ Category: Groceries,-92.12
+3/5/2017,DEBIT,PETROCAN THORNHILL ON,Rewards earned: 0.61 ~ Category: Gas,-30.47
+3/7/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.04 ~ Category: Drug Store,-4.37
+3/7/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.70 ~ Category: Gas,-35
+3/7/2017,DEBIT,WINNERS 202 TORONTO ON,Rewards earned: 0.34 ~ Category: Other,-33.89
+3/7/2017,DEBIT,HOMESENSE 107 TORONTO ON,Rewards earned: 0.34 ~ Category: Other,-33.88
+3/7/2017,DEBIT,KOSHER CITY PLUS NORTH YORK ON,Rewards earned: 0.17 ~ Category: Groceries,-8.6
+3/7/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.58 ~ Category: Other,-58.38
+3/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,3633.06
+3/9/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.31 ~ Category: Groceries,-15.69
+3/9/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 0.85 ~ Category: Groceries,-42.42
+3/10/2017,DEBIT,THE KOSHER GOURMET TORONTO ON,Rewards earned: 0.30 ~ Category: Restaurant,-30.11
+3/10/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.55 ~ Category: Groceries,-27.66
+3/10/2017,DEBIT,407ETR-INTERNET WOODBRIDGE ON,Rewards earned: 0.10 ~ Category: Parking,-9.82
+3/10/2017,DEBIT,TORONTO PARKING AUTHOR TORONTO O,Rewards earned: 0.01 ~ Category: Parking,-0.5
+3/10/2017,DEBIT,Udemy 1760483369 CA USA,Rewards earned: 0.30 ~ Category: Other,-30
+3/13/2017,DEBIT,PETROCAN THORNHILL ON,Rewards earned: 0.80 ~ Category: Gas,-40.03
+3/13/2017,DEBIT,CDN TIRE STORE #00019 NORTH YORK,Rewards earned: 1.13 ~ Category: Home Improvement,-112.99
+3/13/2017,DEBIT,HAT BOX TORONTO NORTH YORK ON,Rewards earned: 4.12 ~ Category: Other,-412.45
+3/13/2017,DEBIT,HOMESENSE 107 TORONTO ON,Rewards earned: 0.58 ~ Category: Other,-57.6
+3/16/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.10 ~ Category: Groceries,-4.98
+3/17/2017,DEBIT,PAYPAL *BOBOVMARKET 4029357733 O,Rewards earned: 1.02 ~ Category: Other,-102.27
+3/17/2017,DEBIT,SOBEYS 659 QPS THORNHILL ON,Rewards earned: 0.18 ~ Category: Groceries,-9.03
+3/17/2017,DEBIT,SOBEYS 659 QPS THORNHILL ON,Rewards earned: 0.45 ~ Category: Groceries,-22.61
+3/17/2017,DEBIT,SOBEYS 659 QPS THORNHILL ON,Rewards earned: 0.42 ~ Category: Groceries,-20.85
+3/17/2017,DEBIT,LOBLAW SUPERMARKET #10 TORONTO O,Rewards earned: 1.06 ~ Category: Groceries,-53.04
+3/19/2017,CREDIT,WINNERS 202 TORONTO ON,Rewards earned: -0.28 ~ Category: Other,28.24
+3/19/2017,DEBIT,KITCHEN STUFF PLUS #9 TORONTO ON,Rewards earned: 0.02 ~ Category: Furniture,-2.25
+3/19/2017,CREDIT,CARTER'S OSHKOSH #4 TORONTO ON,Rewards earned: -0.71 ~ Category: Other,70.56
+3/19/2017,CREDIT,WAL-MART # 3105 TORONTO ON,Rewards earned: -0.06 ~ Category: Other,5.62
+3/19/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.11 ~ Category: Drug Store,-11.26
+3/19/2017,DEBIT,PETROCAN TORONTO ON,Rewards earned: 1.00 ~ Category: Gas,-50.03
+3/20/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.04 ~ Category: Restaurant,-4.04
+3/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+3/26/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 0.57 ~ Category: Groceries,-28.43
+3/26/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.66 ~ Category: Gas,-33.23
+3/27/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.27 ~ Category: Restaurant,-27.1
+3/27/2017,DEBIT,ORTHOCANADA 8196713399 QC,Rewards earned: 0.51 ~ Category: Other,-50.96
+3/27/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.80 ~ Category: Gas,-40
+3/28/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.31 ~ Category: Groceries,-15.32
+3/28/2017,DEBIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: 0.09 ~ Category: Other,-9.02
+3/29/2017,DEBIT,UDEMY.COM 8888385432 CA USA,Rewards earned: 0.40 ~ Category: Other,-40
+3/29/2017,DEBIT,123InkCartridges.ca LACHINE QC,Rewards earned: 0.67 ~ Category: Other,-66.74
+3/29/2017,CREDIT,PAYPAL *BOBOVMARKET 4029357733 O,Rewards earned: -0.20 ~ Category: Other,20
+3/31/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.55 ~ Category: Groceries,-27.43
+3/31/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.90 ~ Category: Gas,-45
+4/2/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.53 ~ Category: Drug Store,-53.09
+4/3/2017,DEBIT,PETSMART INC. 3030 TORONTO ON,Rewards earned: 0.09 ~ Category: Other,-9.02
+4/3/2017,DEBIT,THE CHILDREN'S PLACE#3 TORONTO O,Rewards earned: 0.57 ~ Category: Other,-56.91
+4/3/2017,DEBIT,WINNERSHOMESENSE 20301 VAUGHAN O,Rewards earned: 0.05 ~ Category: Other,-4.51
+4/3/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 1.31 ~ Category: Other,-130.75
+4/4/2017,DEBIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: 0.90 ~ Category: Other,-90.38
+4/4/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+4/4/2017,DEBIT,WINNERS 202 TORONTO ON,Rewards earned: 1.56 ~ Category: Other,-155.89
+4/4/2017,DEBIT,LITTLE SHOE PALACE NORTH YORK ON,Rewards earned: 0.66 ~ Category: Other,-66.15
+4/5/2017,DEBIT,ZICHRON BINYOMIN CHARI 416-48493,Rewards earned: 0.95 ~ Category: Other,-95
+4/5/2017,DEBIT,SHOPPERS DRUG MART #08 TORONTO O,Rewards earned: 0.53 ~ Category: Drug Store,-53.42
+4/5/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 2.84 ~ Category: Groceries,-141.99
+4/5/2017,DEBIT,LITTLE SHOE PALACE NORTH YORK ON,Rewards earned: 0.51 ~ Category: Other,-51.45
+4/6/2017,DEBIT,PETROCAN TORONTO ON,Rewards earned: 1.44 ~ Category: Gas,-71.92
+4/6/2017,DEBIT,MICROSOFT *STORE MSBILL.INFO ON,Rewards earned: 0.05 ~ Category: Other,-4.62
+4/6/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.68 ~ Category: Other,-67.88
+4/6/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 4.11 ~ Category: Groceries,-205.29
+4/7/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.24 ~ Category: Groceries,-11.89
+4/7/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 1.07 ~ Category: Groceries,-53.44
+4/7/2017,CREDIT,PREAUTHORIZED PAYMENT,,2306.82
+4/8/2017,DEBIT,PERSONAL INSURANCE COM MISSISSAU,Rewards earned: 64.12 ~ Category: Bill Payment,-3206
+4/9/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.23 ~ Category: Restaurant,-22.6
+4/10/2017,DEBIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: 0.25 ~ Category: Other,-24.76
+4/10/2017,DEBIT,SHOPPERS DRUG MART0803 NORTH YOR,Rewards earned: 0.26 ~ Category: Drug Store,-26.02
+4/13/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.42 ~ Category: Groceries,-70.93
+4/14/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.05 ~ Category: Other,-5
+4/19/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.18 ~ Category: Groceries,-9.24
+4/19/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 0.26 ~ Category: Groceries,-12.84
+4/20/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.09 ~ Category: Groceries,-4.68
+4/20/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.10 ~ Category: Groceries,-54.99
+4/20/2017,DEBIT,DR. SAMUEL AXELROD & A NORTH YOR,Rewards earned: 0.33 ~ Category: Other,-33
+4/20/2017,DEBIT,INDIGO 286 TORONTO ON,Rewards earned: 0.11 ~ Category: Other,-11.29
+4/20/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 3.55 ~ Category: Other,-355.46
+4/20/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 4.37 ~ Category: Groceries,-218.57
+4/21/2017,DEBIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: 0.86 ~ Category: Other,-86.03
+4/21/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.54 ~ Category: Groceries,-26.76
+4/23/2017,DEBIT,KITCHEN STUFF PLUS TORONTO ON,Rewards earned: 0.17 ~ Category: Furniture,-17.46
+4/23/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 0.60 ~ Category: Groceries,-30.15
+4/23/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.40 ~ Category: Other,-40.41
+4/23/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.80 ~ Category: Gas,-40
+4/25/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.99 ~ Category: Groceries,-49.46
+4/25/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.41 ~ Category: Groceries,-20.51
+4/25/2017,DEBIT,INDIGO - 685 SHEPPARD NORTH YORK,Rewards earned: 0.05 ~ Category: Parking,-5
+4/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+4/26/2017,DEBIT,FRIEDMANS FRESH FISH NORTH YORK ,Rewards earned: 0.03 ~ Category: Other,-2.52
+4/26/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.08 ~ Category: Restaurant,-7.9
+4/26/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.27 ~ Category: Restaurant,-27.1
+4/27/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.59 ~ Category: Gas,-79.37
+4/27/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.30 ~ Category: Groceries,-64.94
+4/30/2017,CREDIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: -0.53 ~ Category: Other,105.7
+4/30/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.32 ~ Category: Other,-63.22
+4/30/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 3.08 ~ Category: Groceries,-153.93
+4/30/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.15 ~ Category: Drug Store,-30.97
+5/2/2017,DEBIT,THE KOSHER GOURMET TORONTO ON,Rewards earned: 0.07 ~ Category: Restaurant,-14.67
+5/2/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.04 ~ Category: Restaurant,-7.35
+5/2/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.09 ~ Category: Restaurant,-17.23
+5/2/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.09 ~ Category: Groceries,-4.3
+5/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+5/2/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 0.51 ~ Category: Other,-101.7
+5/4/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.07 ~ Category: Groceries,-3.49
+5/5/2017,DEBIT,THE TAX REVIEW TORONTO ON,Rewards earned: 2.26 ~ Category: Other,-452
+5/7/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.12 ~ Category: Other,-24.93
+5/7/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.20 ~ Category: Gas,-60
+5/7/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.68 ~ Category: Groceries,-83.87
+5/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,2978.05
+5/9/2017,DEBIT,FRIEDMANS FRESH FISH NORTH YORK ,Rewards earned: 0.04 ~ Category: Other,-7.82
+5/9/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.08 ~ Category: Groceries,-3.99
+5/9/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.03 ~ Category: Restaurant,-6.1
+5/9/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.04 ~ Category: Drug Store,-8.11
+5/12/2017,DEBIT,DR ARASH GHASSABEI DEN TORONTO O,Rewards earned: 0.18 ~ Category: Other,-35.2
+5/14/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.29 ~ Category: Groceries,-64.6
+5/15/2017,DEBIT,THE ISRAELI SOURCE THORNHILL ON,Rewards earned: 0.05 ~ Category: Other,-9.03
+5/15/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.40 ~ Category: Gas,-70.01
+5/15/2017,DEBIT,AQUARIUM SERVICES THORNHILL ON,Rewards earned: 0.06 ~ Category: Other,-12.42
+5/15/2017,DEBIT,AIR-SERV A 225455 TORONTO ON,Rewards earned: 0.03 ~ Category: Gas,-1.5
+5/16/2017,DEBIT,Udemy 1760483369 CA USA,Rewards earned: 0.10 ~ Category: Other,-19
+5/16/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.38 ~ Category: Groceries,-18.84
+5/16/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 0.17 ~ Category: Other,-33.9
+5/17/2017,DEBIT,AIRBNB * HMNRBEKA5A Trip details,Rewards earned: 2.27 ~ Category: Hotel,-454
+5/19/2017,DEBIT,AIRBNB * HMN2X2N8KC Trip details,Rewards earned: 2.44 ~ Category: Hotel,-487
+5/19/2017,DEBIT,MIRIAMS GIFT GALLERY TORONTO ON,Rewards earned: 0.95 ~ Category: Other,-189.84
+5/21/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.02 ~ Category: Drug Store,-4.73
+5/21/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.14 ~ Category: Furniture,-27.11
+5/21/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 3.44 ~ Category: Groceries,-172.23
+5/22/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.00 ~ Category: Gas,-50.09
+5/23/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+5/23/2017,DEBIT,SHOPPERS DRUG MART #08 TORONTO O,Rewards earned: 0.04 ~ Category: Drug Store,-7.64
+5/24/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.77 ~ Category: Groceries,-38.39
+5/24/2017,DEBIT,Amazon.ca AMAZON.CA ON,Rewards earned: 0.09 ~ Category: Other,-18.53
+5/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+5/26/2017,DEBIT,Amazon.ca AMAZON.CA ON,Rewards earned: 0.13 ~ Category: Other,-25.38
+5/26/2017,DEBIT,THE KOSHER GOURMET TORONTO ON,Rewards earned: 0.11 ~ Category: Restaurant,-21.29
+5/26/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.19 ~ Category: Groceries,-9.48
+5/26/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.07 ~ Category: Groceries,-3.38
+5/26/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.44 ~ Category: Groceries,-22.01
+5/28/2017,DEBIT,THE HOME DEPOT #7129 TORONTO ON,Rewards earned: 0.08 ~ Category: Home Improvement,-16.92
+5/28/2017,DEBIT,SLICE N BITES INC NORTH YORK ON,Rewards earned: 0.10 ~ Category: Restaurant,-19.78
+5/28/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.23 ~ Category: Groceries,-11.61
+5/29/2017,DEBIT,COLLEGE OF OCCUPATIONA TORONTO O,Rewards earned: 3.72 ~ Category: Other,-743.03
+5/29/2017,DEBIT,PETROCAN THORNHILL ON,Rewards earned: 1.01 ~ Category: Gas,-50.31
+5/29/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.65 ~ Category: Groceries,-32.4
+5/30/2017,CREDIT,AIRBNB * HMNRBEKA5A Trip details,Rewards earned: -0.73 ~ Category: Hotel,146
+6/2/2017,DEBIT,MIDRASH SHMUEL TEL9175893004 NY ,Rewards earned: 0.36 ~ Category: Other,-72.2
+6/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+6/4/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.66 ~ Category: Groceries,-82.91
+6/4/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.66 ~ Category: Other,-131.61
+6/5/2017,DEBIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: 0.07 ~ Category: Other,-14.67
+6/5/2017,DEBIT,PETROCAN TORONTO ON,Rewards earned: 1.24 ~ Category: Gas,-61.79
+6/5/2017,DEBIT,MIRIAMS GIFT GALLERY TORONTO ON,Rewards earned: 0.47 ~ Category: Other,-94.22
+6/5/2017,DEBIT,SOX SPOT HATS A LA MOD NORTH YOR,Rewards earned: 0.05 ~ Category: Other,-9.98
+6/6/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.40 ~ Category: Groceries,-19.94
+6/6/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.14 ~ Category: Restaurant,-28.9
+6/6/2017,DEBIT,APL* ITUNES.COM/BILL 800-676-277,Rewards earned: 0.05 ~ Category: Other,-10.99
+6/6/2017,DEBIT,HAGGAR FACTORY STORE COOKSTOWN O,Rewards earned: 0.25 ~ Category: Other,-50.85
+6/6/2017,DEBIT,PUTT MINI GOLF BARRIE ON,Rewards earned: 0.12 ~ Category: Other,-23.73
+6/6/2017,DEBIT,NATURALIZER OUTLET #75 COOKSTOWN,Rewards earned: 0.22 ~ Category: Other,-44.61
+6/6/2017,DEBIT,SHOE COMPANY # 288 BARRIE ON,Rewards earned: 0.31 ~ Category: Other,-62.95
+6/7/2017,DEBIT,FOODLAND #6841 ORILLIA ON,Rewards earned: 0.14 ~ Category: Groceries,-6.99
+6/7/2017,DEBIT,SHOPPERS DRUG MART #09 ORILLIA O,Rewards earned: 0.10 ~ Category: Drug Store,-20.88
+6/8/2017,DEBIT,PETROCAN ORILLIA ON,Rewards earned: 0.61 ~ Category: Gas,-30.26
+6/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,5657.86
+6/9/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.02 ~ Category: Groceries,-51.15
+6/11/2017,CREDIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: -0.17 ~ Category: Other,33.03
+6/11/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.94 ~ Category: Other,-188.21
+6/11/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.08 ~ Category: Groceries,-103.83
+6/11/2017,DEBIT,WAL-MART #5831 THORNHILL ON,Rewards earned: 0.23 ~ Category: Groceries,-11.27
+6/11/2017,CREDIT,WAL-MART # 3105 TORONTO ON,Rewards earned: -0.12 ~ Category: Other,23.04
+6/11/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.22 ~ Category: Other,-43.17
+6/12/2017,CREDIT,Udemy 1760483369 CA USA,Rewards earned: -0.10 ~ Category: Other,19
+6/13/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.22 ~ Category: Groceries,-11.05
+6/14/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.80 ~ Category: Gas,-40
+6/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.94 ~ Category: Groceries,-46.91
+6/16/2017,DEBIT,CARTER'S OSHKOSH THORNHILL ON,Rewards earned: 0.26 ~ Category: Other,-51.68
+6/18/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.31 ~ Category: Other,-62.12
+6/18/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.57 ~ Category: Groceries,-78.41
+6/18/2017,DEBIT,PETROCAN TORONTO ON,Rewards earned: 1.02 ~ Category: Gas,-50.9
+6/18/2017,DEBIT,THE HOME DEPOT #7129 TORONTO ON,Rewards earned: 0.12 ~ Category: Home Improvement,-24.84
+6/19/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.03 ~ Category: Other,-5.65
+6/20/2017,DEBIT,MARRON BISTRO TORONTO ON,Rewards earned: 0.96 ~ Category: Restaurant,-191.11
+6/20/2017,DEBIT,ORANGE SQUARE INC NORTH YORK ON,Rewards earned: 0.19 ~ Category: Other,-37.54
+6/22/2017,DEBIT,SERVICEONTARIO MIDTOWN TORONTO O,Rewards earned: 0.45 ~ Category: Other,-90
+6/22/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.09 ~ Category: Drug Store,-18.41
+6/22/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.70 ~ Category: Gas,-35
+6/22/2017,CREDIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: -0.16 ~ Category: Other,31.46
+6/22/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 1.19 ~ Category: Other,-237.3
+6/22/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.51 ~ Category: Groceries,-25.52
+6/23/2017,DEBIT,DOLLARAMA # 687 TORONTO ON,Rewards earned: 0.03 ~ Category: Other,-5.37
+6/23/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 0.66 ~ Category: Groceries,-32.99
+6/25/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.15 ~ Category: Restaurant,-29.35
+6/25/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.91 ~ Category: Groceries,-95.3
+6/25/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.60 ~ Category: Other,-119.22
+6/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+6/26/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+6/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.03 ~ Category: Other,-5.65
+6/28/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.59 ~ Category: Gas,-29.42
+6/29/2017,DEBIT,MR. RAM AUTO REFINISH NORTH YORK,Rewards earned: 3.39 ~ Category: Other,-678
+6/30/2017,DEBIT,OMNI 2 JEWELCRAFTERS ( NORTH YOR,Rewards earned: 0.34 ~ Category: Restaurant,-68.31
+6/30/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.38 ~ Category: Groceries,-19.21
+6/30/2017,DEBIT,PARKING PPL TORONTO ON,Rewards earned: 0.02 ~ Category: Parking,-4
+7/2/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.18 ~ Category: Gas,-59.01
+7/2/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.21 ~ Category: Other,-41.38
+7/2/2017,CREDIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: -0.46 ~ Category: Other,91.48
+7/2/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.79 ~ Category: Other,-157.27
+7/4/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+7/5/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.02 ~ Category: Drug Store,-4.73
+7/6/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.07 ~ Category: Groceries,-3.38
+7/6/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.22 ~ Category: Groceries,-61.13
+7/6/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.13 ~ Category: Other,-26.95
+7/6/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.11 ~ Category: Other,-21.53
+7/7/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.05 ~ Category: Other,-9.83
+7/7/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.04 ~ Category: Other,-7.21
+7/7/2017,CREDIT,PREAUTHORIZED PAYMENT,,3901.78
+7/7/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.03 ~ Category: Other,-5.86
+7/10/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.19 ~ Category: Other,-38.99
+7/10/2017,DEBIT,JEWELS BY KOBY NORTH YORK ON,Rewards earned: 0.07 ~ Category: Other,-13.55
+7/11/2017,DEBIT,THE SHOE COMPANY NORTH YORK ON,Rewards earned: 0.40 ~ Category: Other,-79.09
+7/11/2017,DEBIT,THE SHOE COMPANY NORTH YORK ON,Rewards earned: 0.24 ~ Category: Other,-47.44
+7/12/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 1.18 ~ Category: Groceries,-58.82
+7/13/2017,DEBIT,HUSKY MARLEE HUSKY #27 NORTH YOR,Rewards earned: 1.35 ~ Category: Gas,-67.43
+7/13/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 1.33 ~ Category: Other,-265
+7/15/2017,DEBIT,PERSONAL INSURANCE COM MISSISSAU,Rewards earned: 2.24 ~ Category: Bill Payment,-112
+7/16/2017,DEBIT,LITTLE SHOE PALACE NORTH YORK ON,Rewards earned: 0.18 ~ Category: Other,-36.75
+7/16/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.60 ~ Category: Groceries,-130.05
+7/18/2017,CREDIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: -0.40 ~ Category: Other,79.09
+7/18/2017,DEBIT,FRUMELAS NORTH YORK ON,Rewards earned: 0.23 ~ Category: Other,-45.77
+7/18/2017,DEBIT,ORANGE SQUARE INC NORTH YORK ON,Rewards earned: 0.09 ~ Category: Other,-18.77
+7/20/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.97 ~ Category: Groceries,-48.53
+7/21/2017,DEBIT,KALEIDESCOPE APPAREL TORONTO ON,Rewards earned: 0.32 ~ Category: Other,-64.98
+7/24/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.13 ~ Category: Restaurant,-26.5
+7/24/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.29 ~ Category: Gas,-64.55
+7/24/2017,DEBIT,WALMART.CA Mississauga ON,Rewards earned: 0.31 ~ Category: Other,-62.49
+7/25/2017,DEBIT,TORONTO CHEDER01 OF 01 NORTH YOR,Rewards earned: 1.32 ~ Category: Other,-263
+7/25/2017,DEBIT,UDEMY.COM 8888385432 CA USA,Rewards earned: 0.38 ~ Category: Bill Payment,-19
+7/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+7/25/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.57 ~ Category: Other,-114.13
+7/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+7/26/2017,DEBIT,CANADA WIDE PARKING RICHMOND HIL,Rewards earned: 0.01 ~ Category: Parking,-1
+7/26/2017,DEBIT,BATH & BODY WORKS #600 TORONTO O,Rewards earned: 0.19 ~ Category: Other,-38.42
+7/26/2017,DEBIT,BATH & BODY WORKS #600 TORONTO O,Rewards earned: 0.26 ~ Category: Other,-52.54
+7/27/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.10 ~ Category: Drug Store,-20.66
+7/28/2017,DEBIT,AISH TANOOR TORONTO ON,Rewards earned: 0.02 ~ Category: Restaurant,-3.26
+7/28/2017,DEBIT,SOOTER'S STUDIO NORTH YORK ON,Rewards earned: 0.34 ~ Category: Other,-67.75
+7/30/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.33 ~ Category: Groceries,-16.4
+7/30/2017,DEBIT,STAPLES STORE #15 TORONTO ON,Rewards earned: 0.14 ~ Category: Other,-27.67
+7/30/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.49 ~ Category: Groceries,-124.52
+7/31/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+8/1/2017,DEBIT,PAYPAL *CHAIMSFRIED 4029357733 O,Rewards earned: 0.05 ~ Category: Other,-9.07
+8/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+8/2/2017,DEBIT,STAPLES STORE #15 TORONTO ON,Rewards earned: 0.14 ~ Category: Other,-27.63
+8/2/2017,CREDIT,STAPLES STORE #15 TORONTO ON,Rewards earned: -0.14 ~ Category: Other,27.67
+8/2/2017,DEBIT,PARKING - SUNNYBROOK TORONTO ON,Rewards earned: 0.05 ~ Category: Parking,-9.5
+8/3/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.80 ~ Category: Gas,-40
+8/4/2017,DEBIT,KITCHEN STUFF PLUS #9 TORONTO ON,Rewards earned: 0.08 ~ Category: Furniture,-16.24
+8/4/2017,DEBIT,PARKING PPL TORONTO ON,Rewards earned: 0.02 ~ Category: Parking,-4
+8/4/2017,DEBIT,DOLLARAMA # 420 TORONTO ON,Rewards earned: 0.13 ~ Category: Other,-26.27
+8/6/2017,DEBIT,TORONTO PARKING AUTHOR TORONTO O,Rewards earned: 0.02 ~ Category: Parking,-4.5
+8/6/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 2.12 ~ Category: Other,-423.15
+8/7/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.33 ~ Category: Groceries,-16.43
+8/8/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 2.68 ~ Category: Groceries,-133.78
+8/8/2017,DEBIT,SOX SPOT HATS A LA MOD NORTH YOR,Rewards earned: 0.16 ~ Category: Other,-31.5
+8/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,2777.33
+8/9/2017,DEBIT,SLICE N BITES INC NORTH YORK ON,Rewards earned: 0.06 ~ Category: Restaurant,-11.02
+8/10/2017,DEBIT,VALU MOBILE AT LAWRENC TORONTO O,Rewards earned: 0.06 ~ Category: Other,-11.3
+8/10/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.31 ~ Category: Gas,-65.31
+8/11/2017,DEBIT,TORONTO PARKING AUTHOR TORONTO O,,-0.75
+8/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 0.81 ~ Category: Bill Payment,-40.62
+8/11/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.69 ~ Category: Other,-137.26
+8/11/2017,DEBIT,UNDERWRAPS LINGERIE NORTH YORK O,Rewards earned: 0.31 ~ Category: Other,-61.02
+8/13/2017,DEBIT,TORONTO PARKING AUTHOR TORONTO O,Rewards earned: 0.02 ~ Category: Parking,-4.5
+8/13/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.08 ~ Category: Other,-16.95
+8/14/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.27 ~ Category: Groceries,-13.43
+8/14/2017,DEBIT,DR. SAMUEL AXELROD & A OSHAWA ON,Rewards earned: 0.21 ~ Category: Other,-42.9
+8/16/2017,DEBIT,YORKDALE TOYOTA PARTS TORONTO ON,Rewards earned: 0.18 ~ Category: Other,-35.52
+8/16/2017,DEBIT,WERB DENTISTRY TORONTO ON,Rewards earned: 0.33 ~ Category: Other,-65.55
+8/16/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.38 ~ Category: Groceries,-118.75
+8/16/2017,DEBIT,SQ *BUNCH OF FUN PLAYL Toronto O,Rewards earned: 0.04 ~ Category: Other,-7.9
+8/18/2017,CREDIT,UDEMY.COM 8888385432 CA USA,Rewards earned: -0.10 ~ Category: Other,19
+8/18/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.77 ~ Category: Other,-154.18
+8/18/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 0.26 ~ Category: Groceries,-13.02
+8/20/2017,DEBIT,SHELL INNISFIL ON,Rewards earned: 1.47 ~ Category: Gas,-73.63
+8/20/2017,DEBIT,CDN TIRE STORE #00006 BARRIE ON,Rewards earned: 0.03 ~ Category: Home Improvement,-6.77
+8/20/2017,DEBIT,UNDER ARMOUR COOKSTOWN COOKSTOWN,Rewards earned: 0.12 ~ Category: Other,-23.72
+8/20/2017,DEBIT,HAGGAR FACTORY STORE COOKSTOWN O,Rewards earned: 0.25 ~ Category: Other,-50.85
+8/20/2017,DEBIT,PAYPAL *MOSTLYMUSIC 4029357733 N,Rewards earned: 0.07 ~ Category: Other,-13
+8/20/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.62 ~ Category: Groceries,-81.11
+8/22/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.06 ~ Category: Other,-11.3
+8/22/2017,DEBIT,FENELON FALLS PHARMACY FENELON F,Rewards earned: 0.03 ~ Category: Drug Store,-5.64
+8/23/2017,DEBIT,ESSO NORLAND ON,Rewards earned: 1.35 ~ Category: Gas,-67.57
+8/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+8/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.79 ~ Category: Bill Payment,-39.55
+8/27/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.56 ~ Category: Groceries,-78.14
+8/27/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.21 ~ Category: Drug Store,-41.55
+8/28/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.85 ~ Category: Gas,-42.29
+8/28/2017,DEBIT,THE INSTITUTE OF TORAH 905-76411,Rewards earned: 0.36 ~ Category: Other,-72
+8/28/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+8/29/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.22 ~ Category: Groceries,-11.14
+8/29/2017,DEBIT,TORONTO & REGION CONSE NORTH YOR,Rewards earned: 0.04 ~ Category: Parking,-7
+8/30/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.19 ~ Category: Other,-37.38
+8/30/2017,DEBIT,MIRIAMS GIFT GALLERY TORONTO ON,Rewards earned: 0.17 ~ Category: Other,-34.65
+8/30/2017,DEBIT,PAYLESS SHOESOURCE #69 NORTH YOR,Rewards earned: 0.08 ~ Category: Other,-15.75
+8/30/2017,DEBIT,KIDS CLUB NORTH YORK ON,Rewards earned: 0.52 ~ Category: Other,-104.98
+8/31/2017,DEBIT,MODERN DRY CLEAN NORTH YORK ON,Rewards earned: 0.03 ~ Category: Other,-6.2
+8/31/2017,DEBIT,IKEA NORTH YORK NORTH YORK ON,Rewards earned: 0.55 ~ Category: Furniture,-110.71
+9/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+9/4/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 1.72 ~ Category: Groceries,-86.08
+9/5/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 3.17 ~ Category: Groceries,-158.74
+9/6/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.07 ~ Category: Other,-13.43
+9/6/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 2.20 ~ Category: Other,-440
+9/6/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.14 ~ Category: Other,-28.25
+9/6/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.03 ~ Category: Other,-5.65
+9/7/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.06 ~ Category: Restaurant,-12.43
+9/7/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.39 ~ Category: Groceries,-19.47
+9/7/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.07 ~ Category: Restaurant,-14.7
+9/8/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.09 ~ Category: Drug Store,-18.3
+9/8/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.36 ~ Category: Groceries,-18.06
+9/8/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.13 ~ Category: Groceries,-6.56
+9/8/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.35 ~ Category: Other,-69.14
+9/8/2017,CREDIT,PREAUTHORIZED PAYMENT,,2906.18
+9/8/2017,DEBIT,CDN TIRE STORE #00019 NORTH YORK,Rewards earned: 0.23 ~ Category: Home Improvement,-45.14
+9/10/2017,DEBIT,DOLLARAMA # 420 TORONTO ON,Rewards earned: 0.11 ~ Category: Other,-21.47
+9/10/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.54 ~ Category: Groceries,-126.83
+9/10/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.08 ~ Category: Other,-16.98
+9/10/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.80 ~ Category: Gas,-40
+9/11/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.15 ~ Category: Drug Store,-29.48
+9/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 0.05 ~ Category: Parking,-9.5
+9/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 0.81 ~ Category: Bill Payment,-40.62
+9/12/2017,DEBIT,WALMART.CA Mississauga ON,Rewards earned: 0.35 ~ Category: Other,-70.83
+9/12/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.09 ~ Category: Restaurant,-18.47
+9/12/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.07 ~ Category: Other,-13.76
+9/14/2017,DEBIT,ESSO TORONTO ON,Rewards earned: 1.20 ~ Category: Gas,-60
+9/14/2017,DEBIT,THE CHILDREN'S PLACE#3 TORONTO O,Rewards earned: 0.08 ~ Category: Other,-15.02
+9/15/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.92 ~ Category: Other,-183.11
+9/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.51 ~ Category: Groceries,-25.39
+9/17/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.03 ~ Category: Restaurant,-6.67
+9/17/2017,CREDIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: -0.58 ~ Category: Other,116.33
+9/17/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.82 ~ Category: Other,-164.69
+9/17/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.70 ~ Category: Groceries,-85.14
+9/19/2017,DEBIT,MIDRASH SHMUEL TEL9175893004 NY ,Rewards earned: 0.34 ~ Category: Other,-68.08
+9/19/2017,DEBIT,KOLLEL TORONTO 4167891853 ON,Rewards earned: 0.54 ~ Category: Other,-108
+9/20/2017,DEBIT,PEOPLES DRUG MART TORONTO ON,Rewards earned: 0.06 ~ Category: Drug Store,-11.6
+9/20/2017,DEBIT,PAYLESS SHOESOURCE #59 TORONTO O,Rewards earned: 0.12 ~ Category: Other,-24.14
+9/20/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 0.71 ~ Category: Groceries,-35.34
+9/25/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.77 ~ Category: Groceries,-38.28
+9/25/2017,DEBIT,PARKING-SUNNYBROOK TORONTO ON,Rewards earned: 0.10 ~ Category: Parking,-19
+9/25/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.90 ~ Category: Gas,-45.19
+9/25/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.06 ~ Category: Restaurant,-12.43
+9/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+9/25/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.05 ~ Category: Restaurant,-9.05
+9/26/2017,DEBIT,SLICE N BITES INC NORTH YORK ON,Rewards earned: 0.08 ~ Category: Restaurant,-15.8
+9/26/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.24 ~ Category: Groceries,-12.16
+9/26/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 0.97 ~ Category: Other,-193.54
+9/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.79 ~ Category: Bill Payment,-39.55
+9/27/2017,CREDIT,SHOMRAI SHABOTH CHEVRA 416-78288,Rewards earned: -4.10 ~ Category: Other,819
+9/27/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.56 ~ Category: Other,-111.05
+9/27/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.05 ~ Category: Other,-10.71
+9/27/2017,DEBIT,SHOMRAI SHABOTH CHEVRA 416-78288,Rewards earned: 0.54 ~ Category: Other,-108
+9/27/2017,DEBIT,SHOMRAI SHABOTH CHEVRA 416-78288,Rewards earned: 4.10 ~ Category: Other,-819
+9/28/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.90 ~ Category: Groceries,-45.05
+9/28/2017,DEBIT,CANADIAN ASSOCIATION O OTTAWA ON,Rewards earned: 1.58 ~ Category: Other,-315.37
+10/1/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.20 ~ Category: Gas,-60
+10/1/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 1.10 ~ Category: Other,-220
+10/1/2017,DEBIT,SLICE N BITES INC NORTH YORK ON,Rewards earned: 0.26 ~ Category: Restaurant,-52.72
+10/1/2017,DEBIT,KOSHER CITY PLUS NORTH YORK ON,Rewards earned: 1.54 ~ Category: Groceries,-76.8
+10/1/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.11 ~ Category: Groceries,-105.44
+10/2/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 3.30 ~ Category: Other,-659.92
+10/3/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+10/6/2017,CREDIT,PREAUTHORIZED PAYMENT,,2237.73
+10/6/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+10/7/2017,DEBIT,THE INSIDE SCOOP NORTH YORK ON,Rewards earned: 0.05 ~ Category: Restaurant,-9.49
+10/8/2017,DEBIT,PIZZA CAFE INC NORTH YORK ON,Rewards earned: 0.12 ~ Category: Restaurant,-23.45
+10/9/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.03 ~ Category: Restaurant,-6.1
+10/9/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 4.42 ~ Category: Groceries,-221.05
+10/10/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.48 ~ Category: Groceries,-23.98
+10/10/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.15 ~ Category: Restaurant,-29.35
+10/10/2017,DEBIT,WORLD MILK VARIETY TORONTO ON,Rewards earned: 0.11 ~ Category: Other,-22.6
+10/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 2.01 ~ Category: Bill Payment,-100.51
+10/15/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.44 ~ Category: Groceries,-21.81
+10/15/2017,DEBIT,WATSON FARMS BOWMANVILLE ON,Rewards earned: 0.14 ~ Category: Other,-28
+10/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.34 ~ Category: Groceries,-16.77
+10/15/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 0.97 ~ Category: Gas,-48.52
+10/15/2017,DEBIT,WMT SUPRCTR #1001 BOWMANVILLE ON,Rewards earned: 0.50 ~ Category: Groceries,-25.24
+10/16/2017,DEBIT,PARKING - SUNNYBROOK TORONTO ON,Rewards earned: 0.07 ~ Category: Parking,-14.25
+10/16/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+10/16/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.50 ~ Category: Groceries,-24.85
+10/17/2017,DEBIT,SOX SPOT HATS A LA MOD NORTH YOR,Rewards earned: 0.15 ~ Category: Other,-29.4
+10/17/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.03 ~ Category: Restaurant,-5.71
+10/17/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 0.81 ~ Category: Groceries,-40.31
+10/17/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.11 ~ Category: Drug Store,-22.59
+10/18/2017,DEBIT,PIZZA CAFE INC NORTH YORK ON,Rewards earned: 0.07 ~ Category: Restaurant,-14.69
+10/18/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.78 ~ Category: Groceries,-39.05
+10/18/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.13 ~ Category: Groceries,-6.3
+10/18/2017,DEBIT,HAT BOX TORONTO NORTH YORK ON,Rewards earned: 1.25 ~ Category: Other,-249.6
+10/18/2017,DEBIT,HAT BOX TORONTO NORTH YORK ON,Rewards earned: 0.28 ~ Category: Other,-56.5
+10/18/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.29 ~ Category: Gas,-64.44
+10/19/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.21 ~ Category: Groceries,-10.33
+10/19/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.40 ~ Category: Groceries,-20.23
+10/19/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.17 ~ Category: Restaurant,-33.9
+10/21/2017,DEBIT,THE SHOE COMPANY NORTH YORK ON,Rewards earned: 0.21 ~ Category: Other,-41.87
+10/22/2017,DEBIT,WINNERS 202 TORONTO ON,Rewards earned: 0.07 ~ Category: Other,-14.07
+10/22/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.48 ~ Category: Groceries,-73.92
+10/22/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.03 ~ Category: Drug Store,-6.36
+10/23/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.40 ~ Category: Other,80.23
+10/23/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.07 ~ Category: Other,13.43
+10/23/2017,CREDIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: -0.12 ~ Category: Other,23.93
+10/23/2017,CREDIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: -0.05 ~ Category: Other,10.71
+10/23/2017,DEBIT,BUBBYS BAGELS NORTH YORK ON,Rewards earned: 0.02 ~ Category: Restaurant,-4.51
+10/23/2017,DEBIT,SEARS CDA PROMENADE MA THORNHILL,Rewards earned: 0.14 ~ Category: Other,-27.09
+10/24/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.18 ~ Category: Groceries,-9.05
+10/24/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.06 ~ Category: Drug Store,-12.66
+10/24/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.06 ~ Category: Restaurant,-12.43
+10/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+10/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.79 ~ Category: Bill Payment,-39.55
+10/26/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.94 ~ Category: Groceries,-47.14
+10/27/2017,DEBIT,PETROCAN TORONTO ON,Rewards earned: 1.54 ~ Category: Gas,-77
+10/28/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.39 ~ Category: Other,-77.43
+10/28/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.23 ~ Category: Other,-46.47
+10/29/2017,DEBIT,SOX SPOT HATS A LA MOD NORTH YOR,Rewards earned: 0.07 ~ Category: Other,-14.7
+10/29/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.31 ~ Category: Other,-62.26
+10/29/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.31 ~ Category: Other,-61.32
+10/29/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.33 ~ Category: Groceries,-66.64
+10/29/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.05 ~ Category: Other,-10.79
+11/1/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 1.10 ~ Category: Other,-220
+11/1/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.58 ~ Category: Groceries,-28.8
+11/1/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 0.61 ~ Category: Groceries,-30.65
+11/2/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.17 ~ Category: Restaurant,-33.9
+11/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+11/2/2017,DEBIT,MARSHALLS 747 TORONTO ON,Rewards earned: 0.24 ~ Category: Other,-47.24
+11/2/2017,DEBIT,DOLLARAMA # 687 TORONTO ON,Rewards earned: 0.03 ~ Category: Other,-5.09
+11/3/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.49 ~ Category: Groceries,-24.39
+11/3/2017,DEBIT,CANADA WIDE PARKING RICHMOND HIL,Rewards earned: 0.01 ~ Category: Parking,-1
+11/6/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+11/6/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.54 ~ Category: Gas,-77.11
+11/8/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.02 ~ Category: Drug Store,-4.78
+11/8/2017,DEBIT,DR. SAMUEL AXELROD & A NORTH YOR,Rewards earned: 0.17 ~ Category: Other,-33
+11/8/2017,DEBIT,OLD NAVY CANADA 3392 TORONTO ON,Rewards earned: 0.07 ~ Category: Other,-13.74
+11/8/2017,DEBIT,DOLLARAMA # 420 TORONTO ON,Rewards earned: 0.08 ~ Category: Other,-15.67
+11/9/2017,DEBIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: 0.51 ~ Category: Other,-101.82
+11/9/2017,CREDIT,PREAUTHORIZED PAYMENT,,4396.42
+11/9/2017,DEBIT,THE MEDICINE SHOPPE DOWNSVIEW ON,Rewards earned: 0.30 ~ Category: Drug Store,-60.62
+11/9/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.39 ~ Category: Other,77.43
+11/9/2017,CREDIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: -0.12 ~ Category: Other,23.23
+11/10/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.38 ~ Category: Groceries,-19.2
+11/10/2017,DEBIT,UDEMY.COM 8888385432 CA USA,Rewards earned: 0.38 ~ Category: Bill Payment,-19
+11/10/2017,DEBIT,CDN TIRE STORE #00019 NORTH YORK,Rewards earned: 0.12 ~ Category: Home Improvement,-23.7
+11/10/2017,DEBIT,FORTINO'S NORTH YORK ON,Rewards earned: 0.13 ~ Category: Groceries,-6.28
+11/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 0.88 ~ Category: Bill Payment,-44.01
+11/12/2017,DEBIT,ESSO HAMILTON ON,Rewards earned: 0.89 ~ Category: Gas,-44.38
+11/12/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 1.25 ~ Category: Other,-250.04
+11/12/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.35 ~ Category: Groceries,-67.3
+11/16/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.63 ~ Category: Groceries,-31.74
+11/16/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.09 ~ Category: Groceries,-4.28
+11/16/2017,DEBIT,ZICHRON BINYOMIN CHARI 416-48493,Rewards earned: 0.48 ~ Category: Other,-95
+11/16/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.06 ~ Category: Restaurant,-12.43
+11/16/2017,DEBIT,KIJIJI CANADA LTD 8445454543 ON,Rewards earned: 0.03 ~ Category: Other,-5.64
+11/17/2017,DEBIT,KIJIJI CANADA LTD 8445454543 ON,Rewards earned: 0.06 ~ Category: Other,-11.29
+11/19/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.55 ~ Category: Gas,-77.66
+11/19/2017,DEBIT,PETSMART INC. 3030 TORONTO ON,Rewards earned: 0.03 ~ Category: Other,-5.64
+11/19/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.02 ~ Category: Drug Store,-4.73
+11/19/2017,CREDIT,SHOE COMPANY # 270 NORTH YORK ON,Rewards earned: -0.51 ~ Category: Other,101.82
+11/19/2017,CREDIT,CARTER'S OSHKOSH #4 TORONTO ON,Rewards earned: -0.26 ~ Category: Other,52.49
+11/19/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.66 ~ Category: Groceries,-132.92
+11/20/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.05 ~ Category: Drug Store,-9.22
+11/20/2017,DEBIT,PARKING - SUNNYBROOK TORONTO ON,Rewards earned: 0.05 ~ Category: Parking,-9.5
+11/21/2017,DEBIT,BACK IN ACTION NORTH YORK ON,Rewards earned: 0.60 ~ Category: Other,-120
+11/23/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.53 ~ Category: Groceries,-26.59
+11/23/2017,DEBIT,BACK IN ACTION NORTH YORK ON,Rewards earned: 0.30 ~ Category: Other,-60
+11/24/2017,DEBIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: 0.03 ~ Category: Other,-5.41
+11/24/2017,DEBIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: 0.13 ~ Category: Other,-25.97
+11/24/2017,DEBIT,DOLLARAMA # 687 TORONTO ON,Rewards earned: 0.07 ~ Category: Other,-13.89
+11/24/2017,DEBIT,CDN TIRE STORE #00019 NORTH YORK,Rewards earned: 0.24 ~ Category: Home Improvement,-47.44
+11/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+11/26/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.18 ~ Category: Groceries,-9.03
+11/26/2017,DEBIT,METRO #52 NORTH YORK ON,Rewards earned: 0.17 ~ Category: Groceries,-8.62
+11/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.79 ~ Category: Bill Payment,-39.55
+11/26/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.09 ~ Category: Restaurant,-17.23
+11/26/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.25 ~ Category: Drug Store,-49.43
+11/26/2017,CREDIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: -0.05 ~ Category: Drug Store,9.22
+11/27/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.37 ~ Category: Gas,-68.7
+11/28/2017,CREDIT,OLD NAVY CANADA 3392 TORONTO ON,Rewards earned: -0.01 ~ Category: Other,1.08
+11/28/2017,CREDIT,OLD NAVY CANADA 3392 TORONTO ON,Rewards earned: -0.05 ~ Category: Other,10.3
+11/28/2017,CREDIT,OLD NAVY CANADA 3392 TORONTO ON,Rewards earned: -0.07 ~ Category: Other,13.74
+11/28/2017,DEBIT,THE CHILDREN'S PLACE # NORTH YOR,Rewards earned: 0.26 ~ Category: Other,-52.37
+11/28/2017,DEBIT,BACK IN ACTION NORTH YORK ON,Rewards earned: 0.30 ~ Category: Other,-60
+11/28/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.27 ~ Category: Groceries,-113.74
+11/29/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 0.30 ~ Category: Other,-60
+11/30/2017,DEBIT,THE CHILDRENS PLACE MISSISSAUGA ,Rewards earned: 0.35 ~ Category: Other,-70.32
+12/1/2017,DEBIT,BAIS YAAKOV ELEMENTARY 416-78361,Rewards earned: 1.10 ~ Category: Other,-220
+12/1/2017,DEBIT,WIKIMEDIA SAN FRANCISCO CA USA,Rewards earned: 0.06 ~ Category: Bill Payment,-3
+12/2/2017,DEBIT,SUN LIFE CHOICES A&A 800-669-792,Rewards earned: 5.05 ~ Category: Bill Payment,-252.32
+12/3/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.35 ~ Category: Other,-69.89
+12/3/2017,DEBIT,COSTCO WHOLESALE W535 TORONTO ON,Rewards earned: 0.61 ~ Category: Other,-122
+12/3/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.20 ~ Category: Groceries,-60.1
+12/4/2017,DEBIT,INDIGO - 685 SHEPPARD NORTH YORK,Rewards earned: 0.03 ~ Category: Parking,-5
+12/4/2017,DEBIT,KOSHER CITY PLUS NORTH YORK ON,Rewards earned: 0.09 ~ Category: Groceries,-4.29
+12/5/2017,DEBIT,THE CHILDRENS PLACE MISSISSAUGA ,Rewards earned: 0.11 ~ Category: Other,-21.5
+12/5/2017,DEBIT,BACK IN ACTION NORTH YORK ON,Rewards earned: 0.30 ~ Category: Other,-60
+12/5/2017,DEBIT,ORANGE SQUARE INC NORTH YORK ON,Rewards earned: 0.20 ~ Category: Other,-39.64
+12/5/2017,DEBIT,Amazon *Marketplce CA WWW.AMAZON,Rewards earned: 0.25 ~ Category: Other,-49.15
+12/6/2017,DEBIT,HUSKY MARLEE HUSKY #27 NORTH YOR,Rewards earned: 1.44 ~ Category: Gas,-72.05
+12/6/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.43 ~ Category: Other,-86.24
+12/6/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.57 ~ Category: Bill Payment,-28.25
+12/7/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.30 ~ Category: Groceries,-15.22
+12/8/2017,CREDIT,PREAUTHORIZED PAYMENT,,2222.53
+12/8/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.16 ~ Category: Other,-32.41
+12/9/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.07 ~ Category: Restaurant,-14.13
+12/10/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 2.17 ~ Category: Groceries,-108.29
+12/10/2017,DEBIT,WAL-MART # 3105 TORONTO ON,Rewards earned: 0.18 ~ Category: Other,-36
+12/11/2017,DEBIT,GAP CANADA ONLINE BOLTON ON,Rewards earned: 0.61 ~ Category: Other,-121.84
+12/11/2017,DEBIT,AROMA BATHUST & WILSON NORTH YOR,Rewards earned: 0.08 ~ Category: Restaurant,-16.49
+12/11/2017,DEBIT,TSI INTERNET CHATHAM ON,Rewards earned: 0.88 ~ Category: Bill Payment,-44.01
+12/11/2017,DEBIT,COINBASE CHEAPSIDE GBR GBR,Rewards earned: 0.01 ~ Category: Other,-2
+12/11/2017,DEBIT,COINBASE CHEAPSIDE GBR GBR,Rewards earned: 0.25 ~ Category: Other,-50
+12/11/2017,DEBIT,COINBASE CHEAPSIDE GBR GBR,Rewards earned: 0.50 ~ Category: Other,-100
+12/12/2017,DEBIT,CHOCOLATE CHARM NORTH YORK ON,Rewards earned: 0.10 ~ Category: Other,-19.82
+12/12/2017,DEBIT,BACK IN ACTION NORTH YORK ON,Rewards earned: 0.30 ~ Category: Other,-60
+12/12/2017,DEBIT,BATH & BODY WORKS #600 TORONTO O,Rewards earned: 0.16 ~ Category: Other,-31.08
+12/13/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.41 ~ Category: Gas,-70.33
+12/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.21 ~ Category: Groceries,-10.6
+12/15/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.08 ~ Category: Groceries,-3.99
+12/16/2017,DEBIT,HOWIE T`S BURGER BAR THORNHILL O,Rewards earned: 0.12 ~ Category: Restaurant,-24.83
+12/16/2017,DEBIT,KOSHER CITY PLUS NORTH YORK ON,Rewards earned: 0.34 ~ Category: Groceries,-16.78
+12/16/2017,DEBIT,WAL-MART #5831 THORNHILL ON,Rewards earned: 0.35 ~ Category: Groceries,-17.5
+12/17/2017,DEBIT,BA-LI LAFFA THORNHILL ON,Rewards earned: 0.30 ~ Category: Restaurant,-59.66
+12/18/2017,DEBIT,SQ *BUNCH OF FUN PLAYL Toronto O,Rewards earned: 0.11 ~ Category: Other,-22.58
+12/19/2017,DEBIT,URTH FINE FOODS INC NORTH YORK O,Rewards earned: 0.07 ~ Category: Restaurant,-14.13
+12/19/2017,DEBIT,DR LAFFA ON THE GO TORONTO ON,Rewards earned: 0.07 ~ Category: Restaurant,-14.7
+12/20/2017,DEBIT,SHOPPERS DRUG MART #08 NORTH YOR,Rewards earned: 0.18 ~ Category: Drug Store,-35.85
+12/20/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.06 ~ Category: Groceries,-3.08
+12/20/2017,DEBIT,HERMES BAKERY LTD NORTH YORK ON,Rewards earned: 0.21 ~ Category: Groceries,-10.59
+12/20/2017,DEBIT,KEEPCALLING COM 866-5358095 GA U,Rewards earned: 0.03 ~ Category: Other,-5
+12/20/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.28 ~ Category: Groceries,-13.76
+12/21/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.45 ~ Category: Gas,-72.46
+12/23/2017,DEBIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: 0.05 ~ Category: Other,-10.5
+12/23/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.31 ~ Category: Other,-62.91
+12/23/2017,DEBIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: 0.58 ~ Category: Other,-115.84
+12/24/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 3.06 ~ Category: Groceries,-153.17
+12/25/2017,DEBIT,SAVOURS FRESH MARKET L NORTH YOR,Rewards earned: 0.27 ~ Category: Groceries,-13.35
+12/25/2017,DEBIT,PAYPAL *NEEMANFOUND 4029357733 O,Rewards earned: 0.20 ~ Category: Bill Payment,-10
+12/26/2017,DEBIT,VESTA *CHATR 888-278-5588 BC,Rewards earned: 0.79 ~ Category: Bill Payment,-39.55
+12/27/2017,DEBIT,BEST BUY CANADA #927 TORONTO ON,Rewards earned: 0.68 ~ Category: Other,-136.44
+12/27/2017,CREDIT,BEST BUY CANADA #927 TORONTO ON,Rewards earned: -0.68 ~ Category: Other,136.44
+12/28/2017,DEBIT,ABE'S SERVICE CENTRE NORTH YORK ,Rewards earned: 0.51 ~ Category: Other,-101.7
+12/29/2017,CREDIT,MASTERMIND- YONGE STRE TORONTO O,Rewards earned: -0.05 ~ Category: Other,9.03
+12/29/2017,CREDIT,THE CHILDREN'S PLACE # NORTH YOR,Rewards earned: -0.20 ~ Category: Other,39.28
+12/29/2017,DEBIT,THE CHILDREN'S PLACE # NORTH YOR,Rewards earned: 0.07 ~ Category: Other,-14.14
+12/30/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.09 ~ Category: Other,18.63
+12/30/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.26 ~ Category: Other,52.49
+12/30/2017,CREDIT,OLDNAVY.COM 2944 505-462-0076 ON,Rewards earned: -0.05 ~ Category: Other,10.5
+12/30/2017,CREDIT,OLD NAVY CANADA ONLINE BOLTON ON,Rewards earned: -0.03 ~ Category: Other,5.24
+12/31/2017,DEBIT,DOLLARAMA # 420 TORONTO ON,Rewards earned: 0.18 ~ Category: Other,-36.49
+12/31/2017,DEBIT,NOFRILLS PATS 1330 NORTH YORK ON,Rewards earned: 1.41 ~ Category: Groceries,-70.36
+12/31/2017,DEBIT,ESSO NORTH YORK ON,Rewards earned: 1.20 ~ Category: Gas,-60
+12/31/2017,DEBIT,RAN GHOMAN DESIGNS INC TORONTO O,Rewards earned: 0.16 ~ Category: Other,-31.64
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
