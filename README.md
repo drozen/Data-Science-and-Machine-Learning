@@ -8,18 +8,33 @@ https://nbviewer.jupyter.org/github/drozen/Data-Science-and-Machine-Learning/tre
 Some of the projects showcased:
 
 Python for Data Science and Machine Learning
+
 Spark for Big Data Analysis
+
 Implement Machine Learning Algorithms
+
 NumPy for Numerical Data
+
 Pandas for Data Analysis
+
 Matplotlib for Python Plotting
+
 Seaborn for statistical plots
+
 Plotly for interactive dynamic visualizations
+
 SciKit-Learn for Machine Learning Tasks
+
 K-Means Clustering
+
 Logistic Regression
+
 Linear Regression
+
 Random Forest and Decision Trees
+
 Natural Language Processing and Spam Filters
+
 Neural Networks
+
 Support Vector Machines
