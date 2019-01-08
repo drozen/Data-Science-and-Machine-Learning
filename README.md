@@ -6,35 +6,40 @@ If you don't have Jupyter or to view the projects easily online, click on the fo
 https://nbviewer.jupyter.org/github/drozen/Data-Science-and-Machine-Learning/tree/master/
 
 Some of the projects showcased:
+Some of the projects showcased:
+•	Analysis of Credit Card Spending Behavior
 
-Python for Data Science and Machine Learning
+•	Insights and Analysis on 911 Calls
 
-Spark for Big Data Analysis
+•	Logistic Regression Project Predicting Customer Ad Click Behavior
 
-Implement Machine Learning Algorithms
+-	Predicted correctly 91% of the time
 
-NumPy for Numerical Data
+•	Random Forest Project to Predict Loan Payback
 
-Pandas for Data Analysis
+•	Used lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.
 
-Matplotlib for Python Plotting
+-	Predicted correctly with 81% accuracy
 
-Seaborn for statistical plots
+•	Linear Regression – Predicting Housing Prices
 
-Plotly for interactive dynamic visualizations
+-	Predicted with an average error of $82,228
 
-SciKit-Learn for Machine Learning Tasks
+•	NLP project - Classify Yelp Reviews into Star Categories
 
-K-Means Clustering
+-	Predicted with 92% accuracy
 
-Logistic Regression
+•	NLP project - Classify arbitrary unlabeled emails as spam
 
-Linear Regression
+-	Predicted with 98% accuracy
 
-Random Forest and Decision Trees
+•	Using K Means Clustering to cluster Universities in to Private/Public
 
-Natural Language Processing and Spam Filters
+•	Using SVM to predict Iris Flower Types
 
-Neural Networks
+-	Predicted with 98% accuracy
 
-Support Vector Machines
+•	Using SVM to predict Breast Cancer
+
+-	Predicted with 95% accuracy
+
